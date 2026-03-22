@@ -1,0 +1,79 @@
+D. E. Shaw India Private Limited logo
+D. E. Shaw India Private Limited
+Share
+Show more options
+CoreTech/SDE/Lead, Tech (Gen AI Specialist) – Risk
+Hyderabad, Telangana, India · Reposted 2 weeks ago · Over 100 people clicked apply
+Promoted by hirer · Responses managed off LinkedIn
+
+
+ Hybrid
+Matches your job preferences, workplace type is Hybrid.
+
+ Full-time
+Matches your job preferences, job type is Full-time.
+
+Apply
+
+Save
+Save CoreTech/SDE/Lead, Tech (Gen AI Specialist) – Risk at D. E. Shaw India Private Limited
+CoreTech/SDE/Lead, Tech (Gen AI Specialist) – Risk
+D. E. Shaw India Private Limited · Hyderabad, Telangana, India (Hybrid)
+
+Apply
+
+Save
+Save CoreTech/SDE/Lead, Tech (Gen AI Specialist) – Risk at D. E. Shaw India Private Limited
+Show more options
+Your AI-powered job assessment
+
+
+Show match details
+
+Tailor my resume
+
+Create cover letter
+
+Help me stand out
+
+People you can reach out to
+Standard Chartered logo
+Standard Chartered logo
+Company alumni from Standard Chartered and others in your network
+
+Show all
+About the job
+The D. E. Shaw group is a global investment and technology development firm with more than $65 billion in investment capital as of March 1, 2025, and offices in North America, Europe, and Asia. Since our founding in 1988, our firm has earned an international reputation for successful investing based on innovation, careful risk management, and the quality and depth of our staff. We have a significant presence in the world's capital markets, investing in a wide range of companies and financial instruments in both developed and developing economies.
+
+We are seeking a highly skilled GenAI Developer to join our Risk Portfolio Technology team based in Hyderabad or Bengaluru. Portfolio Risk Technology team builds and maintains software systems and data infrastructure used to measure, monitor, and manage investment risk across portfolios. The ideal candidate will design, develop, and deploy generative AI–powered solutions that drive innovation across risk analytics, data platforms, and workflow automation. This role sits at the intersection of large language models (LLMs), system design, and applied quantitative finance helping us build scalable, secure, and domain-adapted AI systems.
+
+WHAT YOU'LL DO DAY-TO-DAY:
+
+In this role, you will test and integrate LLMs and other foundation models for domain-specific applications (portfolio risk analytics, workflow orchestration and automation, scenario modeling). You will implement RAG (retrieval-augmented generation), tool-use pipelines, MCP components and orchestration layers for end-to-end AI workflows. You will build APIs, data pipelines, and microservices to support on-demand, API-driven access to curated datasets for diverse analytics and AI workloads. You will develop scalable solutions for multi-domain data ingestion, knowledge graphs, and prompt management. Additionally, you will collaborate with quants, risk analysts, and engineers to embed GenAI into systems such as scenario analysis, stress testing, and internal productivity tools. You will also prototype domain-specific interpreters and agentic systems that interact with internal/external tools.
+
+WHO WE’RE LOOKING FOR:
+
+Basic qualifications:
+
+Excellent programming proficiency in Python or equivalent languages
+Deep understanding of Large Language Models (LLMs), including evaluation and prompting techniques
+Hands-on experience with RAG (Retrieval-Augmented Generation), vector databases (e.g., FAISS, Milvus, Pinecone), and tool orchestration frameworks (e.g., LangChain, LlamaIndex, MCP)
+Familiarity with embedding generation, context management, and LLM-driven orchestration
+Robust problem-solving skills with the ability to translate technical concepts for non-technical stakeholders
+A collaborative mindset for working across quant, risk, and technology teams
+
+Preferred qualifications:
+
+Experience building APIs, microservices, and data pipelines in production environments and good grasp of software design principles and modular architecture
+Understanding of portfolio risk analytics, stress testing, or scenario modeling
+Experience building agentic systems, domain interpreters, or AI-driven automation frameworks along with semantic search or knowledge retrieval systems at scale
+
+Interested candidates can apply through our website:
+
+https://www.deshawindia.com/recruit/jobs/Adv/Link/LdTchGenAIOct25
+
+We encourage candidates with relevant experience looking to restart their careers after a break to apply for this position. Learn about Recommence, our gender-neutral return-to-work initiative.
+
+The Firm offers excellent benefits, a casual, collegial working environment, and an attractive compensation package. For further information about our recruitment process, including how applicant data will be processed, please visit https://www.deshawindia.com/careers.
+
+Members of the D. E. Shaw group do not discriminate in employment matters on the basis of sex, race, colour, caste, creed, religion, pregnancy, national origin, age, military service eligibility, veteran status, sexual orientation, marital status, disability, or any other protected class.
